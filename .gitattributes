@@ -1,0 +1,8 @@
+# Language detection rules
+public/*.html linguist-vendored
+node_modules/* linguist-vendored
+**/*.js linguist-detectable
+src/**/*.js linguist-detectable
+
+vendor/* linguist-vendored
+# eof 2b7726ca
